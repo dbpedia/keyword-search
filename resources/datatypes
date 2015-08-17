@@ -1,0 +1,240 @@
+﻿$area
+#squareMetre-m2, m², μ2, μ², τ.μ., τετραγωνικό μέτρο#
+squareMillimetre-mm2, mm², square millimetre, μμ2, μμ²-1.0E-6
+squareCentimetre-cm2, cm², square centimetre-0.0001
+squareDecimetre-dm2, square decimetre-0.01
+squareDecametre-dam2, square decametre-0.1
+squareHectometre-hm2, square hectometre, στρέμμα, στρέμματα-10000.0
+squareKilometre-km², km2, square kilometre, km\u00B2, τετρ. χιλ., χλμ2, χλμ²-1000000.0
+hectare-ha, hectare, εκτάρια-10000.0
+squareInch-sqin, square inch, sq in-0.00064516
+squareFoot-sqft, ft2, ft², square foot, sq ft-0.09290304
+squareYard-sqyd, square yard, sq yd-0.83612736
+//// https://en.wikipedia.org/wiki/Acre
+// the international acre is exactly 4,046.8564224 square metres
+acre-acre, acres, Έικρ-4046.8564224
+squareMile-sqmi, mi2, mi², square mile, τετραγωνικά μίλια-2589988.110336
+squareNauticalMile-sqnmi, nmi2, square nautical mile-3429904.0
+
+$Densit
+#kilogramPerCubicMetre-kg·m−3, kg/m³, kg/m3, kg·m, kilogram per cubic metre, κυβικό μέτρο, μ3#
+kilogramPerLitre-kg/l, kg/L, kilogram per litre-1000.0
+gramPerCubicCentimetre-g/cc,g/cm3, g/cm³, gram per cubic centimetre-1000.0
+gramPerMillilitre-g/ml, g/mL, gram per millilitre-1000.0
+
+$Energy
+#joule-J, joule, Τζάουλ#
+kilojoule-kJ, kilojoule-1000.0
+erg-erg-1.0E-7
+milliwattHour-mWh, milliwatt-hour-3.6
+wattHour-Wh, watt-hour-3600.0
+kilowattHour-kWh, kilowatt-hour-3600000.0
+megawattHour-MWh, megawatt-hour-3600000000.0
+gigawattHour-GWh, gigawatt-hour-3600000000000.0
+terawattHour-TWh, terawatt-hour-3600000000000000.0
+//electronVolt-eV, electron volt-missing conversion factor
+millicalorie-mcal, millicalorie-0.0041868
+calorie-cal, calorie-4.1868
+kilocalorie-kcal, kilocalorie-4186.8
+megacalorie-Mcal, megacalorie-4186800.0
+inchPound-inlb, inch-pound-0.11298482902
+footPound-ftlb, foot-pound-1.3558179483
+
+$FlowRate
+#cubicMetrePerSecond-m\u00B3/s, m³/s, cubic metre per second#
+cubicFeetPerSecond-ft\u00B3/s, ft³/s, cuft/s, cubic feet per second-0.028316846593
+cubicMetrePerYear-m\u00B3/y, m³/y, cubic metre per year-3.1709791983765E-8
+cubicFeetPerYear-ft\u00B3/y, ft³/y, cubic feet per year-8.9792131512047E-10
+
+$Force
+#newton-N, newton#
+nanonewton-nN, nanonewton-1.0E-9
+millinewton-mN, millinewton-0.001
+kilonewton-kN, kilonewton-1000.0
+meganewton-MN, meganewton-1000000.0
+giganewton-GN, giganewton-1000000000.0
+tonneForce-tf, t-f, tonne-force-9806.65
+megapond-Mp, megapond-9806.65
+kilogramForce-kgf, kg-f, kilogram-force-9.80665
+kilopond-kp, kilopond-9.80665
+gramForce-gf, g-f, gram-force-0.00980665
+pond-p, pond-0.00980665
+milligramForce-mgf, mg-f, milligram-force-0.00980665
+millipond, mp,millipond-0.00980665
+poundal-pdl, poundal-0.1383
+
+$Frequency
+#hertz-Hz, hertz#
+millihertz-mHz, millihertz-0.001
+kilohertz-kHz, kilohertz-1000.0
+megahertz-MHz, megahertz-1000000.0
+gigahertz-GHz, gigahertz-1000000000.0
+terahertz-THz, terahertz-1000000000000.0
+
+$FuelEfficiency
+#kilometresPerLitre-km/l, km/L, kilometres per litre#
+// litresPerKilometre-l/km, L/km, litres per kilometre-missing conversion factor
+// milesPerImperialGallon-mpgimp, miles per imperial gallon-missing conversion factor
+// milesPerUsGallon-mpgus, miles per US gallon-missing conversion factor
+// imperialGallonsPerMile-impgal/mi, imperial gallons per mile-missing conversion factor
+// usGallonsPerMile-usgal/mi, US gallons per mile-missing conversion factor
+
+$InformationUnit
+#byte-B, byte#
+bit-bit-0.125
+kilobit-kbit, kilobit-128.0
+megabit-Mbit, megabit-131072.0
+kilobyte-kB, kilobyte-1000.0
+megabyte-MB, megabyte-1000000.0
+gigabyte-GB, gigabyte-1000000000.0
+terabyte-TB, terabyte-1000000000000.0
+
+$Length
+#metre-m, meter, metres, metre, /*el*/ μ, μέτρα, μέτρο#
+nanometre-nm, nanometre, /*el*/ νανόμετρο-1.0E-9
+micrometre-µm, micrometre, /*el*/ μικρόμετρο-1.0E-6
+millimetre-mm, millimetre, /*el*/ χιλιοστόμετρο-0.001
+centimetre-cm, centimetre, /*el*/ εκ, εκατοστά, εκατοστόμετρο-0.01
+decimetre-dm, decimetre, /*el*/ δεκατόμετρο-0.1
+decametre-dam, decametre-10.0
+hectometre-hm, hectometre-100.0
+kilometre-km, kilometre, /*el*/ χιλ, χιλιόμετρα-1000.0
+megametre-Mm, megametre-1000000.0
+gigametre-Gm, gigametre-1000000000.0
+inch-in, inch, '', \"-0.0254
+hand-hand-0.1016
+foot-ft, feet, foot, ', /*el*/ πόδια-0.3048
+yard-yd, yard-0.9144
+fathom-fathom-1.8288
+rod-rd, perch, pole, rod-5.0292
+chain-chain-20.1168
+furlong-furlong-201.168
+mile-mi, miles, mile, /*el*/ μίλι, μίλια-1609.344
+nautialMile-nmi, nautial mile-1852.01
+// From https://en.wikipedia.org/wiki/Astronomical_unit
+// ...until in August 2012 the International Astronomical Union adopted the current definition of 1 astronomical unit = 149597870700 meters.
+astronomicalUnit-AU, astronomical unit-149597870700.0
+lightYear-ly, light-year-9460730472580800.0
+kilolightYear-kly, kilolight-year-9.4607304725808E+18
+
+$Mass
+#gram-g, gram, /*el*/ γραμμάρια, γρ#
+milligram-mg, milligram, /*el*/ χιλιόγραμμάρια-0.001
+kilogram-kg, kilogram, /*el*/ κιλά-1000.0
+tonne-t, tonne, /*el*/ τόνοι, τόνος-1000000.0
+stone-st, stone-6350.29318
+pound-lb, lbs, lbm, pound-453.6
+ounce-oz, ounce-28.35
+grain-gr, grain-0.0648
+carat-carat, /*el*/ καράτια, καράτι-0.2
+// atomicMassUnit-Da, u, atomic mass unit-missing conversion factor
+
+$PopulationDensity
+#inhabitantsPerSquareKilometre-PD/sqkm, /sqkm, per square kilometre, inhabitants per square kilometre#
+// inhabitantsPerHectare-PD/ha, /ha, per hectare, inhabitants per hectare-missing conversion factor
+inhabitantsPerSquareMile-PD/sqmi, /sqmi, per square mile, inhabitants per square mile-1.0 / 2.589988110336
+// inhabitantsPerAcre-PD/acre, /acre, per acre, inhabitants per acre-missing conversion factor
+
+$Power
+#watt-W, watt, /*el*/ Βατ#
+kilowatt-kW, kilowatt-1000.0
+milliwatt-mW, milliwatt-0.001
+megawatt-MW, megawatt-1000000.0
+gigawatt-GW, gigawatt-1000000000.0
+horsepower-hp, horsepower, ίπποι-745.72218
+pferdestaerke-PS, pferdestaerke-735.49875
+brakeHorsepower-bhp, brake horsepower-745.7
+
+$ElectricCurrent
+#ampere-A, ampere#
+kiloampere-kA, kiloampere-1000.0
+milliampere-mA, milliampere-0.001
+microampere-µA, microampere-1.0E-6
+
+$Voltage
+#volt-V, volt#
+megavolt-MV, megavolt-1000000.0
+kilovolt-kV, kilovolt-1000.0
+millivolt-mV, millivolt-0.001
+microvolt-µV, microvolt-1.0E-6
+
+$Pressure
+#pascal-Pa, pascal#
+millipascal-mPa, millipascal-0.001
+hectopascal-hPa, hectopascal-0.01
+kilopascal-kPa, kilopascal-1000.0
+megapascal-MPa, megapascal-1000000.0
+millibar-mbar, mb, millibar-100.0
+decibar-dbar, decibar-10000.0
+bar-bar-100000.0
+standardAtmosphere-atm, standard atmosphere-101325.0
+poundPerSquareInch-psi, pound per square inch-6894.7572932
+
+$Speed
+#kilometrePerHour-km/h, kmh, kilometre per hour, /*el*/ χιλιόμετρα ανά ώρα#
+metrePerSecond-m/s, ms, metre per second-3.6
+kilometrePerSecond-km/s, kilometre per second-3600.0
+milePerHour-mph, mi/h, mile per hour-1.60934
+footPerSecond-ft/s, foot per second-0.0003048333333
+footPerMinute-ft/min, foot per minute-0.01829
+knot-kn, knot-1.852
+
+$Temperature
+#kelvin-K, kelvin, /*el*/ Κ, κέλβιν#
+degreeCelsius-°C, degree celsius, C, Celsius, /*el*/ βαθμοί-1.0-273.15
+degreeFahrenheit-°F, F, Fahrenheit, degree fahrenheit-5.0 / 9.0-459.67
+degreeRankine-°R, R, degree rankine-5.0 / 9.0-0
+
+$Time
+#second-s, sec, secs, second, seconds, /*el*/ δ, δευτερόλεπτα#
+//Add commonly used fractions of second
+millisecond-ms, millisecond, milliseconds-0.001
+microsecond-µs, microsecond, microseconds-1.0E-6
+nanosecond-ns, nanosecond, nanoseconds-1.0E-9
+// end of fractions
+minute-m, min, min., mins, minute, minutes, /*el*/ λ, λεπτά-60.0
+hour-h, hr, hr., hour, hours, std, /*el*/ ω, ώρες, ώρα-3600.0
+day-d, days, day, /*el*/ μ, μέρα, μέρες-86400.0
+
+$Torque
+#newtonMetre-Nm, N.m, N·m-newton metre#
+newtonMillimetre-Nmm, newton millimetre-0.001
+newtonCentimetre-Ncm, newton centimetre-0.001
+poundFoot-ftlb-f-ftlbf-lbft-1.3558179483314
+
+$Volume
+#cubicMetre-m3, m³, cubic metre, /*el*/ κυβικό μέτρο, μ3, μ³#
+cubicMillimetre-mm3, mm³, cubic millimetre, /*el*/ μμ3, μμ³-1.0E-9
+cubicCentimetre-cm3, cm³, cc, cubic centimetre-1.0E-6
+cubicDecimetre-dm3, dm³, cubic decimetre-0.001
+cubicDecametre-dam3, cubic decametre-1000.0
+cubicHectometre-hm3, hm³, cubic hectometre-1000000.0
+cubicKilometre-km3, km³, cubic kilometre, /*el*/ χιλ3, χιλ³-1000000000.0
+microlitre-ul, uL, microlitre-1.0E-9
+millilitre-ml, mL, millilitre-1.0E-6
+centilitre-cl, cL, centilitre-1.0E-5
+decilitre-dl, dL, decilitre-0.0001
+litre-l, L, litre-0.001
+// decalitre-dal, daL, decalitre-missing conversion factor
+hectolitre-hl, hL, hectolitre-0.1
+kilolitre-kl, kL, kilolitre-1.0
+megalitre-Ml, ML, megalitre-1000.0
+gigalitre-Gl, GL, gigalitre-1000000.0
+cubicMile-cumi, mi3, mi³, cubic mile-4168181825.4406
+cubicYard-cuyd, yd3, cubic yard-0.764692
+cubicFoot-cuft, ft3, ft³, cubic foot-0.0283219
+cubicInch-cuin, in3, in³, cubic inch-1.639E-5
+imperialBarrel-impbl, imperial barrel-0.163659
+usBarrel-usbl, us barrel-0.11924
+imperialBarrelOil-impbbl, imperial barrel oil-0.159113
+usBarrelOil-usbbl, us barrel oil-0.158987
+imperialGallon-impgal, imperial gallon-0.00454609
+usGallon-usgal, USgal, us gallon-0.00378541178
+
+$LinearMassDensity
+#gramPerKilometre-g/km#
+
+$Ratio
+#perCent-, percent, per cent-0.01#
+perMil-‰, permil, per mil-0.001
+

@@ -1,0 +1,10 @@
+# started 2014-07-25T21:33:17Z
+<http://dbpedia.org/resource/Bristol_City_F.C.> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Charlemagne> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Charlton_Athletic_F.C.> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/A.C._Chievo_Verona> <http://xmlns.com/foaf/0.1/gender> "male"@en .
+<http://dbpedia.org/resource/Chelsea_F.C.> <http://xmlns.com/foaf/0.1/gender> "female"@en .
+<http://xmlns.com/foaf/0.1/sfa> <http://xmlns.com/foaf/spec/#term_depiction> "dfa"@en .
+# completed 2014-07-26T00:53:36Z
+
+

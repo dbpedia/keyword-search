@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DBpedia Search</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        $('#Results').html("");
+        $.post("ServletServer",
+            {
+                  Query: document.getElementById("query").value
+            },
+            function(data, status){
+                var json_x = $.parseJSON(data);
+                var i=1;
+                $("<hr>").appendTo('#Results');
+                $.each(json_x, function(index, element) {
+                  JSON.stringify(element);
+                  $('<div id=res'+i+'>'+'</div>').appendTo('#Results');
+                  $('<a href=\"'+element.URI+'"><font color="blue">'+element.URI+'</font></a><br>').appendTo('#res'+i);
+                  if(element.image.indexOf('o image')>=0){
+                      $('<div>'+'No Image'+'</div>').appendTo('#res'+i);
+                  }
+                  else{
+                    $('<br><img src="'+element.image+'"eight="300" width="300"/>').appendTo('#res'+i);
+                  }
+                  $('<div>Explaination Score: '+element.ExpScore+'</div>').appendTo('#res'+i);
+                  $('<div>Energy Score: '+element.EngScore+'</div><hr>').appendTo('#res'+i);
+                  i++;
+                });
+                
+            });
+    });
+});
+</script>
+</head>
+<body>
+<img src="DBpediaLogo.png" alt="dbpedia" style="width:300px;height:180px;">
+<div>Query<input id="query" type="text" style="height:25px;width:500px" /></div>
+<button>Search</button>
+<p id="Results" ></p>
+</body>
+</html>
+

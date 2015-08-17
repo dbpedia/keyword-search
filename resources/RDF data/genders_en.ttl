@@ -1,0 +1,9 @@
+# started 2014-07-25T21:33:17Z
+<http://www.dbpedia.org/page/Larry_Page> <http://live.dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Google> .
+<http://dbpedia.org/ontology/Bill_Gates> <http://live.dbpedia.org/ontology/founder> "Microsoft"@en .
+<http://dbr.com/Sergey_Brin> <http://live.dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Google> .
+<http://dbr.com/Googler> <http://dbo.com/works_in> <http://dbpedia.org/resource/Google> .
+<http://www.dbpedia.org/page/Larry_Page> <http://www.dbpedia.org/ontology/birthPlace> <http://www.dbpedia.org/page/Michigan> .
+<http://dbr.com/Scott_McNealy> <http://www.dbpedia.org/ontology/birthPlace> <http://www.dbpedia.org/page/Michigan> .
+<http://www.dbpedia.org/page/Larry_Page> <http://xmlns.com/foaf/spec/#term_depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Larry_Page_in_the_European_Parliament,_17.06.2009.jpg> .
+# completed 2014-07-26T00:53:36Z

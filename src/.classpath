@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="org/dbpedia/keywordsearch/uinterface/" kind="src" path="main/java"/>
+	<classpathentry kind="src" path="main/java/org/dbpedia/keywordsearch/uinterface"/>
+	<classpathentry excluding="org/dbpedia/keywordsearch/initializer/|org/dbpedia/keywordsearch/propagator/" kind="src" path="test/java"/>
+	<classpathentry kind="src" path="test/java/org/dbpedia/keywordsearch/initializer"/>
+	<classpathentry kind="src" path="test/java/org/dbpedia/keywordsearch/propagator"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

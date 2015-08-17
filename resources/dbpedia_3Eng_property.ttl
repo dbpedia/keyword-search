@@ -1,0 +1,16 @@
+http://dbpedia.org/property/image. rdfs:label "image." .
+http://dbpedia.org/property/undergraduateChapters rdfs:label "undergraduate chapters" .
+http://dbpedia.org/property/shipFuel rdfs:label "Ship fuel" .
+http://dbpedia.org/property/countyCol rdfs:label "county col" .
+http://dbpedia.org/property/mostAppearances rdfs:label "most appearances" .
+http://dbpedia.org/property/laborParty rdfs:label "Labor party" .
+http://dbpedia.org/property/facultyStudent rdfs:label "faculty:student" .
+http://dbpedia.org/ontology/network rdfs:label "network" .
+http://dbpedia.org/ontology/city rdfs:label "flow" .
+http://dbpedia.org/resource/Bristol_City_F.C. rdfs:label "Bristol City FC" .
+http://xmlns.com/foaf/0.1/gender rdfs:label "gender" .
+http://live.dbpedia.org/ontology/founder rdfs:label "founder" .
+http://dbpedia.org/ontology/Bill_Gates rdfs:label "Bill gates" .
+http://www.dbpedia.org/page/Michigan rdfs:label "Michigan" .
+http://www.dbpedia.org/ontology/birthPlace rdfs:label "birthplace" .
+http://dbpedia.org/resource/Google rdfs:label "Google"

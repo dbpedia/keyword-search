@@ -1,0 +1,11 @@
+<http://dbpedia.org/ontology/Agent> <rdfs:label> "agent" .
+http://dbpedia.org/ontology/cidoccrm/E4_Period rdfs:label "E4 Period" .
+ http://dbpedia.org/ontology/ConcentrationCamp rdfs:label "Concentration camp" .
+ http://dbpedia.org/ontology/Mine rdfs:label "mine" .
+ http://dbpedia.org/ontology/Arrondissement rdfs:label "arrondissement" .
+ http://dbpedia.org/ontology/Article rdfs:label "article" .
+ http://dbpedia.org/ontology/CoalPit rdfs:label "coal pit" .
+ http://dbpedia.org/ontology/EmployersOrganisation rdfs:label "Employers' Organisation" .
+ http://dbpedia.org/ontology/ReligiousOrganisation rdfs:label "religious organisation" .
+ http://dbpedia.org/ontology/Bank rdfs:label "bank" .
+ http://dbpedia.org/ontology/MemberResistanceMovement rdfs:label "Member of a Resistance Movement" .
