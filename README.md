@@ -17,8 +17,10 @@ Keyword Search is a scalable search engine on structured resources provided by D
 
 ### Deploying the application
 1. Use asadmin domain to initialize the Glassfish Server at port 4848. The general fom of the command is:
+
    as-install/bin/asadmin start-domain
 2. Use asadmin deploy to deploy the application to [http://localhost:8080/KeywordSearch-1.0.0](http://localhost:8080/KeywordSearch-1.0.0). The general form of the command is:
+
    as-install/bin/asadmin deploy KeywordSearch-1.0.0.war
     
   
