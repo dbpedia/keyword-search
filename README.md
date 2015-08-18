@@ -9,10 +9,11 @@ Keyword Search is a scalable search engine on structured resources provided by D
 
 ### Installation
 1. Install [Glassfish EE7 Full Platform](https://glassfish.java.net/download.html) server.
-2. Install [Keyword Search](https://github.com/dbpedia/keyword-search) bundle. 
-    mvn clean install
-4. Copy the server properties file from conf folder in the Keyword Search bundle to Glassfish Domain config folder. Normally it is /home/glassfish-4.0/glassfish/domains/domain1/config.
-5. Modify the paths in the properties file to where you have kept the dictionaries and resources.
+2. Install [Keyword Search](https://github.com/dbpedia/keyword-search) bundle.
+   
+     mvn clean install
+3. Copy the server properties file from conf folder in the Keyword Search bundle to Glassfish Domain config folder. Normally it is /home/glassfish-4.0/glassfish/domains/domain1/config.
+4. Modify the paths in the properties file to where you have kept the dictionaries and resources.
 
 ### Deploying the application
 1. Use asadmin domain to initialize the Glassfish Server at port 4848. The general fom of the command is:
